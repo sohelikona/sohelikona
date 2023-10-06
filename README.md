@@ -1,8 +1,4 @@
-![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
-![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
-![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
-![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
 
 
 <h1 align="center">Hiya 👋, This is Kona</h1>
