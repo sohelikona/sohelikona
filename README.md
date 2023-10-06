@@ -1,8 +1,8 @@
 ![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
 
 
-<h1 align="center">Hiya 👋, This is Kona</h1>
-<h3 align="center">A passionate MERN STACK developer</h3>
+<h1 align="center">Hello World, I'm Kona</h1>
+<h3 align="center">A Self taught MERN STACK developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fbinary&psig=AOvVaw1Cg5h8UF0L8qgtklt8gSSj&ust=1694004668745000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCpouzAk4EDFQAAAAAdAAAAABBh">
 
