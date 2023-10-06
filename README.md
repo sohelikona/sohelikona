@@ -4,7 +4,7 @@
 <h1 align="center">Hello World, I'm Kona</h1>
 <h3 align="center">A Self taught MERN STACK developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fbinary&psig=AOvVaw1Cg5h8UF0L8qgtklt8gSSj&ust=1694004668745000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCpouzAk4EDFQAAAAAdAAAAABBh">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
