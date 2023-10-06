@@ -1,7 +1,6 @@
 ![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
 
-
-<h1 align="center">Hello World, This is Kona😇</h1>
+<h1 align="center">Hello World This is Kona</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohelikona&label=Profile%20views&color=0e75b6&style=flat" alt="sohelikona" /> </p>
 
 <h3 align="left">Connect with me:</h3>
