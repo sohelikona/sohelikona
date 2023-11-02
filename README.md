@@ -1,4 +1,5 @@
-![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)![Cad](https://github.com/sohelikona/sohelikona/assets/119147072/9dfbe244-6874-4041-8e78-5666f6850bfd)
+![giphy](https://github.com/sohelikona/sohelikona/assets/119147072/2fbf2baf-ccdc-46e4-86af-28af2e3be6ad)
+
 
 <h1 align="center">Hello World This is Kona</h1>
 <h3 align="left">Connect with me:</h3>
