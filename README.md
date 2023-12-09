@@ -2,8 +2,8 @@
 ![GIFMaker_me](https://github.com/sohelikona/sohelikona/assets/119147072/69bb410e-3a9e-4d8b-bd23-97326f2ef174)
 
 
-<h1 align="center">Hello World This is Kona</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hello World, This is Kona</h1>
+
 <p align="left">
 </p>
 
